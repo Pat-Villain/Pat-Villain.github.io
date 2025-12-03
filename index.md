@@ -3,11 +3,13 @@ Pat Villamin's Project Portfolio
 I am an Electrical Engineering major at CSUF and I plan on graduating at some point in the near future.
 I like to mess around with old electrical componenets, especially things that have motors inside of them.
 
+Github Profile: https://github.com/Pat-Villain
+
 ## Favorite CPSC Labs
 
 * Lab 3 part 2
 
-    I remember taking the whole in class lab time with Loc writing part 1. We thought part 2 wouldn’t be that bad, but ended up staying a whole afternoon bashing our heads against the keyboard to write out all of part 2. We struggled too much with the linting and formatting because we didn’t know how to properly do it/ what to look for yet.
+    I remember taking the whole in class lab time with Loc writing part 1. We thought part 2 wouldn’t be that bad, but ended up staying a whole afternoon bashing our heads against the keyboard to write out all of part 2. We struggled too much with the linting and formatting because we didn’t know how to properly do it/ what to look for yet. Nonetheless, working through the logical errors proved to be a challenge; if only there was a graphical addon to easily visualize and imagine what the code is doing to our variables.
 
 * Lab 4 part 2
 
